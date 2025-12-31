@@ -4,7 +4,7 @@
 ![Desenvolvimento de Sistemas](https://img.shields.io/badge/Desenvolvimento%20de%20Sistemas-⚙️-darkblue?style=for-the-badge)
 
 📍 São Paulo / Brasil  
-💻 Ensino Médio — Estudante de Desenvolvimento de Sistemas / Desenvolvedor iniciante  
+💻 Ensino Médio IFSP — Estudante de Desenvolvimento de Sistemas 
 📚 Estudo atualmente: Python, C, Java, HTML, CSS e Git.  
 🚀 Interessado em: Engenharia de Software, Banco de Dados, linguagens de programação. <br> <br>
 
