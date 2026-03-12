@@ -26,9 +26,7 @@
 
 ### 📫 Como me achar
 
-🔗 LinkedIn: https://www.linkedin.com/in/guilherme-antero-fiuza-49ba40381  
-🌐 Portfólio: Em desenvolvimento...
-
+🔗 LinkedIn: https://www.linkedin.com/in/guilherme-antero-fiuza-49ba40381 
 ---
 
 > 👨‍💻 Sempre aprendendo, sempre codando.
