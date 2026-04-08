@@ -24,6 +24,12 @@
 
 ---
 
+<p align="center">
+  <img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=GFiuzaaa&theme=tokyonight"/>
+  <img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=GFiuzaaa&theme=tokyonight"/>
+</p>
+
+---
 ### 📫 Como me achar
 
 🔗 LinkedIn: https://www.linkedin.com/in/guilherme-antero-fiuza-49ba40381 
