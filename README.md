@@ -1,38 +1,16 @@
-### 👨‍💻 Guilherme Fiuza 
-![Desenvolvedor Iniciante](https://img.shields.io/badge/Desenvolvedor%20Iniciante-👨‍💻-darkred?style=for-the-badge)
-![Instituto Federal](https://img.shields.io/badge/Instituto%20Federal-📚-darkgreen?style=for-the-badge)
-![Desenvolvimento de Sistemas](https://img.shields.io/badge/Desenvolvimento%20de%20Sistemas-⚙️-darkblue?style=for-the-badge)
+<p>👨‍💻 Systems Development student at <a href="https://www.ifsp.edu.br/" target="_blank">IFSP</a> (Federal Institute of São Paulo).</p>
+<p>🎓 Main focus on Software Engineering, and Back-End Development.</p>
 
-📍 São Paulo / Brasil  
-💻 Ensino Médio IFSP — Estudante de Desenvolvimento de Sistemas 
-📚 Estudo atualmente: Python, C, Java, HTML, CSS e Git.  
-🚀 Interessado em: Engenharia de Software, Banco de Dados, linguagens de programação. <br> <br>
+<hr>
 
-![Seguidores](https://img.shields.io/github/followers/GFiuzaaa?label=Seguidores&logo=github&labelColor=005eff&color=005eff&style=for-the-badge)
+### 🛠️ Tech Stack
 
----
-### 🖥️ Linguagens e Tecnologias
+[![My Skills](https://skillicons.dev/icons?i=java,python,c,flask,html,css,git)](https://skillicons.dev)
 
-<p >
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" alt="HTML5"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50" alt="CSS3"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50" alt="Java"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" alt="Python"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="50" alt="C"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" alt="Git"/>
-</p>
+<hr>
 
----
+### 📫 Let's connect
 
-<p align="center">
-  <img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=GFiuzaaa&theme=tokyonight"/>
-  <img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=GFiuzaaa&theme=tokyonight"/>
-</p>
-
----
-### 📫 Como me achar
-
-🔗 LinkedIn: https://www.linkedin.com/in/guilherme-antero-fiuza-49ba40381 
----
-
-> 👨‍💻 Sempre aprendendo, sempre codando.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guilherme-antero-fiuza-49ba40381)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/gfiuzaa_)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:guilhermeanterofiuza@gmail.com)
